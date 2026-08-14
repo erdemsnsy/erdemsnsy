@@ -56,6 +56,10 @@ Bir hukuk bürosunun hizmetlerini ve çalışma alanlarını tanıtan; makaleler
 
 Kullanıcı rolleri, kitap ve stok yönetimi, ödünç alma, satın alma ve yönetici işlemlerini kapsayan kapsamlı bir kütüphane yönetim sistemi.
 
-### 🧾 [Kodfolyo](https://kodfolyo.vercel.app/)
+### 💻 [Kodfolyo](https://kodfolyo.vercel.app/) 
+
+Yazılımcıların GitHub profillerini ve projelerini otomatik senkronize eden; özel temalar, AI destekli biyografi üretici, PDF dışa aktarma ve dinamik paylaşım araçları içeren modern portfolyo platformu.
+
+
 
 
