@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Hakkımda
 
-- Bilgisayar Programcılığı mezunuyum; web teknolojileri üzerine çalışıyorum.
+- Bilgisayar Programcılığı mezunuyum; ağırlıklı olarak web teknolojileri üzerine çalışıyorum.
 - Ürünlerimde yapay zekâ entegrasyonları, kullanıcı deneyimi ve sade tasarıma odaklanıyorum.
 - Fikirleri modern araçlar ve yapay zekâ iş akışlarıyla hızlıca canlıya almayı seviyorum.
 
