@@ -3,14 +3,14 @@
 <h3 align="center">Yazılım Geliştirici</h3>
 
 <p align="center">
-  Modern, yapay zekâ destekli ve işlevsel web/mobil uygulamalar geliştiriyorum.
+  Modern, yapay zekâ destekli ve işlevsel web uygulamaları geliştiriyorum.
 </p>
 
 ---
 
 ## 👨‍💻 Hakkımda
 
-- Bilgisayar Programcılığı mezunuyum; web ve mobil teknolojileri üzerine çalışıyorum.
+- Bilgisayar Programcılığı mezunuyum; web teknolojileri üzerine çalışıyorum.
 - Ürünlerimde yapay zekâ entegrasyonları, kullanıcı deneyimi ve sade tasarıma odaklanıyorum.
 - Fikirleri modern araçlar ve yapay zekâ iş akışlarıyla hızlıca canlıya almayı seviyorum.
 
@@ -19,12 +19,12 @@
 ## 🛠️ Teknolojiler ve Araçlar
 
 <p>
-  <img src="https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=flutter&logoColor=54C5F8" />
-  <img src="https://img.shields.io/badge/Dart-20232A?style=for-the-badge&logo=dart&logoColor=0175C2" />
   <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php&logoColor=777BB4" />
   <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=flutter&logoColor=54C5F8" />
+  <img src="https://img.shields.io/badge/Dart-20232A?style=for-the-badge&logo=dart&logoColor=0175C2" />
 </p>
 
 <p>
@@ -53,5 +53,5 @@ E-ticaret satıcılarının maliyet, komisyon, kargo ve vergi giderlerini hesapl
 ### ⚖️ [Şensoy Hukuk ve Danışmanlık](https://hukukvedanismanlik.vercel.app/)
 Hukuk bürosu için geliştirilen; otomatik dilekçe taslağı oluşturma, yasal faiz/tazminat hesaplama araçları ve responsive tanıtım modüllerine sahip kurumsal web sitesi.
 
-### 📚 Kütüphane Otomasyonu
+### 📚 Kütüphane Otomasyonu *(Geliştirme aşamasında)*
 Kullanıcı rolleri, kitap/stok yönetimi, ödünç alma ve satın alma iş akışlarını kapsayan tam teşekküllü yönetim sistemi.
